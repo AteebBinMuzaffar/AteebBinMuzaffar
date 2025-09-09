@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ateeb Bin Muzaffar!
 
-## 🚀 Data Scientist | Statistical Analyst
+## 🚀 Data Scientist | Data Analyst | Statistical Analyst
 
 📍 **London, United Kingdom**  
 💎 **Email:** [ateebbinmuzaffar@gmail.com](mailto:ateebbinmuzaffar@gmail.com)  
