@@ -3,10 +3,10 @@
 ## 🚀 Data Scientist | Data Analyst | Statistical Analyst
 
 📍 **London, United Kingdom**  
-💎  [![Email](https://img.shields.io/badge/Email-ateebbinmuzaffar%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:ateebbinmuzaffar@gmail.com)  
-🔗  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ateeb%20Bin%20Muzaffar-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ateebbinmuzaffar)  
-👨‍💻  [![GitHub](https://img.shields.io/badge/GitHub-AteebBinMuzaffar-black?logo=github)](https://github.com/AteebBinMuzaffar)  
-🏢  [![GitHub](https://img.shields.io/badge/GitHub-ateebmuzaffarjisc-black?logo=github)](https://github.com/ateebmuzaffarjisc)  
+💎 **Email:** <a href="mailto:ateebbinmuzaffar@gmail.com" target="_blank" rel="noopener noreferrer">ateebbinmuzaffar@gmail.com</a>  
+🔗 **LinkedIn:** <a href="https://linkedin.com/in/ateebbinmuzaffar" target="_blank" rel="noopener noreferrer">Ateeb Bin Muzaffar</a>  
+👨‍💻 **Personal GitHub:** <a href="https://github.com/AteebBinMuzaffar" target="_blank" rel="noopener noreferrer">AteebBinMuzaffar</a>  
+🏢 **Company Github:** <a href="https://github.com/ateebmuzaffarjisc" target="_blank" rel="noopener noreferrer">ateebmuzaffarjisc</a>  
 
 
 ### About Me 🌐
