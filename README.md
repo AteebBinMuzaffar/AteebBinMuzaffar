@@ -2,23 +2,12 @@
 
 ## 🚀 Data Scientist | Data Analyst | Statistical Analyst
 
-<style>
-a.custom-link {
-  color: #0366d6; /* GitHub blue */
-  text-decoration: none;
-  font-weight: 600;
-}
-a.custom-link:hover {
-  text-decoration: underline;
-  color: #0056b3; /* Darker hover blue */
-}
-</style>
-
 📍 **London, United Kingdom**  
-💎 **Email:** <a class="custom-link" href="mailto:ateebbinmuzaffar@gmail.com" target="_blank" rel="noopener noreferrer">ateebbinmuzaffar@gmail.com</a>  
-🔗 **LinkedIn:** <a class="custom-link" href="https://linkedin.com/in/ateebbinmuzaffar" target="_blank" rel="noopener noreferrer">Ateeb Bin Muzaffar</a>  
-👨‍💻 **Personal GitHub:** <a class="custom-link" href="https://github.com/AteebBinMuzaffar" target="_blank" rel="noopener noreferrer">AteebBinMuzaffar</a>  
-🏢 **Company GitHub:** <a class="custom-link" href="https://github.com/ateebmuzaffarjisc" target="_blank" rel="noopener noreferrer">ateebmuzaffarjisc</a>  
+💎 **Email:** [![Email](https://img.shields.io/badge/Email-ateebbinmuzaffar%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:ateebbinmuzaffar@gmail.com)  
+🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ateeb%20Bin%20Muzaffar-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ateebbinmuzaffar)  
+👨‍💻 **Personal GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-AteebBinMuzaffar-black?logo=github)](https://github.com/AteebBinMuzaffar)  
+🏢 **Company GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-ateebmuzaffarjisc-black?logo=github)](https://github.com/ateebmuzaffarjisc)  
+
 
 ### About Me 🌐
 With a strong foundation in data science, statistical analysis, and machine learning, I am passionate about leveraging data-driven solutions to solve real world problems. My expertise spans data modelling, AI/ML, and big data processing, with hands-on experience in analytics and decision support systems.
