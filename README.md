@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ateeb Bin Muzaffar!
+# 👋 Hello, I'm Ateeb!
 
 ## 🚀 Data Scientist | Data Analyst | Statistical Analyst
 
