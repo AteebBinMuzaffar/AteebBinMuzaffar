@@ -3,10 +3,10 @@
 ## 🚀 Data Scientist | Data Analyst | Statistical Analyst
 
 📍 **London, United Kingdom**  
-💎 **Email:** [![Email](https://img.shields.io/badge/Email-ateebbinmuzaffar%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:ateebbinmuzaffar@gmail.com)  
-🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ateeb%20Bin%20Muzaffar-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ateebbinmuzaffar)  
-👨‍💻 **Personal GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-AteebBinMuzaffar-black?logo=github)](https://github.com/AteebBinMuzaffar)  
-🏢 **Company GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-ateebmuzaffarjisc-black?logo=github)](https://github.com/ateebmuzaffarjisc)  
+💎  [![Email](https://img.shields.io/badge/Email-ateebbinmuzaffar%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:ateebbinmuzaffar@gmail.com)  
+🔗  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ateeb%20Bin%20Muzaffar-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ateebbinmuzaffar)  
+👨‍💻  [![GitHub](https://img.shields.io/badge/GitHub-AteebBinMuzaffar-black?logo=github)](https://github.com/AteebBinMuzaffar)  
+🏢  [![GitHub](https://img.shields.io/badge/GitHub-ateebmuzaffarjisc-black?logo=github)](https://github.com/ateebmuzaffarjisc)  
 
 
 ### About Me 🌐
