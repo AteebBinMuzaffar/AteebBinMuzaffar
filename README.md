@@ -3,10 +3,10 @@
 ## 🚀 Data Scientist | Data Analyst | Statistical Analyst
 
 📍 **London, United Kingdom** 
-💎 **Email:** [ateebbinmuzaffar@gmail.com](mailto:ateebbinmuzaffar@gmail.com) 
-🔗 **LinkedIn:** [Ateeb Bin Muzaffar](https://linkedin.com/in/ateebbinmuzaffar) 
-👨‍💻 **Personal GitHub:** [AteebBinMuzaffar](https://github.com/AteebBinMuzaffar) 
-🏢 **Company Github:** [ateebmuzaffarjisc](https://github.com/ateebmuzaffarjisc)
+💎 **Email:** [ateebbinmuzaffar@gmail.com](mailto:ateebbinmuzaffar@gmail.com)  
+🔗 **LinkedIn:** [Ateeb Bin Muzaffar](https://linkedin.com/in/ateebbinmuzaffar)  
+👨‍💻 **Personal GitHub:** [AteebBinMuzaffar](https://github.com/AteebBinMuzaffar)  
+🏢 **Company Github:** [ateebmuzaffarjisc](https://github.com/ateebmuzaffarjisc)  
 
 
 ### About Me 🌐
