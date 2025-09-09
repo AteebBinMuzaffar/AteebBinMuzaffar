@@ -5,7 +5,8 @@
 📍 **London, United Kingdom**  
 💎 **Email:** [ateebbinmuzaffar@gmail.com](mailto:ateebbinmuzaffar@gmail.com)  
 🔗 **LinkedIn:** [Ateeb Bin Muzaffar](https://linkedin.com/in/ateebbinmuzaffar)  
-👨‍💻 **GitHub:** [AteebBinMuzaffar](https://github.com/AteebBinMuzaffar)  
+👨‍💻 **Personal GitHub:** [AteebBinMuzaffar](https://github.com/AteebBinMuzaffar)  
+🏢 **Company Github:** [ateebmuzaffarjisc](https://github.com/ateebmuzaffarjisc)
 
 ### About Me 🌐
 With a strong foundation in data science, statistical analysis, and machine learning, I am passionate about leveraging data-driven solutions to solve real world problems. My expertise spans data modelling, AI/ML, and big data processing, with hands-on experience in analytics and decision support systems.
